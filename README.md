@@ -48,3 +48,7 @@ SVM achieved the best performance with:
 - Scikit-learn
 - Matplotlib
 - Jupyter Notebook
+
+## ROC Curve Comparison
+
+![ROC Curve](images/ROC_Curve_Comparison.png)
